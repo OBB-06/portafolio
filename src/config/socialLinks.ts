@@ -9,8 +9,6 @@ export const socialLinks = {
   repositories: {
     projectOne: import.meta.env.VITE_GITHUB_PROJECT1_URL,
     projectTwo: import.meta.env.VITE_GITHUB_PROJECT2_URL,
-    projectThree: import.meta.env.VITE_GITHUB_PROJECT3_URL,
-    projectFour: import.meta.env.VITE_GITHUB_PROJECT4_URL,
   },
   
   // Formatted display names (extracted from environment variables)
